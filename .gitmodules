@@ -1,0 +1,3 @@
+[submodule "skilswap_server"]
+	path = skilswap_server
+	url = https://github.com/Williansouzh/skilswap_server.git
